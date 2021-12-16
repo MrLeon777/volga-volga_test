@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/volga-volga_test/static/css/main.9b2d6fb6.chunk.css",
+    "main.js": "/volga-volga_test/static/js/main.4e4bb135.chunk.js",
+    "main.js.map": "/volga-volga_test/static/js/main.4e4bb135.chunk.js.map",
+    "runtime-main.js": "/volga-volga_test/static/js/runtime-main.3e4885cb.js",
+    "runtime-main.js.map": "/volga-volga_test/static/js/runtime-main.3e4885cb.js.map",
+    "static/js/2.10358137.chunk.js": "/volga-volga_test/static/js/2.10358137.chunk.js",
+    "static/js/2.10358137.chunk.js.map": "/volga-volga_test/static/js/2.10358137.chunk.js.map",
+    "index.html": "/volga-volga_test/index.html",
+    "static/css/main.9b2d6fb6.chunk.css.map": "/volga-volga_test/static/css/main.9b2d6fb6.chunk.css.map",
+    "static/js/2.10358137.chunk.js.LICENSE.txt": "/volga-volga_test/static/js/2.10358137.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e4885cb.js",
+    "static/js/2.10358137.chunk.js",
+    "static/css/main.9b2d6fb6.chunk.css",
+    "static/js/main.4e4bb135.chunk.js"
+  ]
+}
